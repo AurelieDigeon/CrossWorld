@@ -6,7 +6,7 @@ Jeu "point-and-click" dans le thème du rétro-gaming.
 
 ## Installation
 
-Il est nécessaire de creer une base de donnée et de la remplir avec les éléments nécessaires. 
+Il faut d'abords creer une base de donnée et la remplir avec les éléments nécessaires. 
 Le premier niveaux est disponible en lançant les classes INIT.
 
 ## Licence
